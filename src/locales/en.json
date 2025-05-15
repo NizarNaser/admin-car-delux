@@ -1,0 +1,55 @@
+{
+    "Login":"Login",
+    "Logout":"Logout",
+    "Image":"Image",
+    "Name":"Name",
+    "Marka":"Marka",
+    "Price":"Price",
+    "Year":"Year",
+    "description":"description",
+    "UpdateCarItem":"Update Car Item",
+
+    
+    "UploadImage":"Upload Image",
+    "CarNameEN":"Car Name en",
+    "CarNameDE":"Car Name de",
+    "CarNameAR":"Car Name ar",
+    "marka":"Marka",
+    "price":"Price",
+    "year":"Year",
+    "descriptionEN":"description en",
+    "descriptionDE":"description en",
+    "descriptionAR":"description en",
+    "Update":"Update",
+    "ADD":"ADD",
+    "AllCarsList":"All Cars list",
+    "delete":"Delete",
+    "CarsDepartment":"Cars Department",
+    "AddNewCar":"Add new Car",
+    "PurchaseDate":"Purchase date",
+    "Expenses":"Expenses",
+    "ExpenseList":"Expense list",
+    "AddNewExpense":"Add a new expense",
+    "ExpenseNameEN":"Expense Name en",
+    "ExpenseNameDE":"Expense Name de",
+    "ExpenseNameAR":"Expense Name ar",
+    "theTotal":"the total",
+    "TotalWithCarPrice":"Total with car price ",
+    
+
+
+
+
+    "Cars":"Cars",
+    
+    "AddaCar":"Add a car",
+    "Purchases":"Purchases",
+    "InAdditionToPurchases":"In addition to purchases",
+    "Sales":"Sales",
+    "InAdditionToSales":"In addition to sales",
+    "PurchasesAndSalesByDate":"Purchases and sales by date",
+    "CarPurchases":"Car purchases",
+    "OtherPurchases":"Other purchases"
+    
+  }
+  

@@ -1,0 +1,103 @@
+/* تحسين مظهر الشريط العلوي */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #007bff;
+  padding: 10px 80px;
+  color: white;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* تحسين اللوجو */
+.navbar .logo {
+  width: 120px;
+  height: auto;
+  cursor: pointer;
+}
+
+/* تحسين مظهر الأزرار */
+.right-nav button {
+  background: transparent;
+  color: white;
+  border: 1px solid white;
+  padding: 8px 16px;
+  margin: 0 5px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.right-nav button:hover {
+  background: white;
+  color: #007bff;
+}
+
+/* تحسين مظهر ملف المستخدم */
+.navbar-profile {
+  position: relative;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+/* صورة المستخدم */
+.navbar-profile img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 2px solid white;
+  transition: 0.3s;
+}
+
+.navbar-profile img:hover {
+  transform: scale(1.1);
+}
+
+/* القائمة المنسدلة */
+.nav-profile-dropdown {
+  position: absolute;
+  top: 45px;
+  right: -30px;
+  background: white;
+  color: black;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  display: none;
+  list-style: none;
+  padding: 10px;
+  width: 120px;
+  transition: 1s;
+}
+
+.navbar-profile:hover .nav-profile-dropdown {
+  display: block;
+  
+}
+
+.nav-profile-dropdown li {
+  padding: 8px;
+  cursor: pointer;
+  text-align: center;
+  transition: 0.6s;
+}
+
+.nav-profile-dropdown li:hover {
+  background: #f0f0f0;
+}
+
+/* تحسين التوافق مع الأجهزة الصغيرة */
+@media (max-width: 768px) {
+  .navbar {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .right-nav {
+    margin-top: 10px;
+  }
+
+  .right-nav button {
+    margin-bottom: 5px;
+  }
+}

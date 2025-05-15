@@ -1,0 +1,51 @@
+{
+    "Login":"Login",
+    "Logout":"Ausloggen",
+    "Image":"Bild",
+    "Name":"Name",
+    "Marka":"Marka",
+    "Price":"Preis",
+    "Year":"Jahr",
+    "description":"Beschreibung",
+    "UpdateCarItem":"Autoartikel aktualisieren",
+
+
+
+    "UploadImage":"Bild hochladen",
+    "CarNameEN":"Autoname en",
+    "CarNameDE":"Autoname de",
+    "CarNameAR":"Autoname ar",
+    "marka":"Marka",
+    "price":"Preis",
+    "year":"Jahr",
+    "descriptionEN":"Beschreibung en",
+    "descriptionDE":"Beschreibung de",
+    "descriptionAR":"Beschreibung ar",
+    "Update":"Aktualisieren",
+    "ADD":"Hinzufügen ",
+    "AllCarsList":"Liste aller Autos",
+    "delete":"löschen",
+    "CarsDepartment":"Autoabteilung",
+    "AddNewCar":"Neues Auto hinzufügen",
+    "PurchaseDate":"Kaufdatum",
+    "Expenses":"Kosten",
+    "ExpenseList":"Spesenliste",
+    "AddNewExpense":"Neue Ausgabe hinzufügen",
+    "ExpenseNameEN":"Spesenname en",
+    "ExpenseNameDE":"Spesenname de",
+    "ExpenseNameAR":"Spesenname ar",
+    "theTotal":"die Gesamtsumme",
+    "TotalWithCarPrice":" Gesamtbetrag mit Autopreis",
+    
+    "Cars":"Autos",
+    
+    "AddaCar":"Auto hinzufügen",
+    "Purchases":"Käufe",
+    "InAdditionToPurchases":"Neben den Einkäufen",
+    "Sales":"Verkäufe",
+    "InAdditionToSales":"Neben dem Verkauf",
+    "PurchasesAndSalesByDate":"Käufe und Verkäufe nach Datum",
+    "CarPurchases":"Autokäufe",
+    "OtherPurchases":"Andere Käufe"
+  }
+  
